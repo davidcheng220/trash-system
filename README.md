@@ -12,6 +12,8 @@
 * trash(一般)
 
 # 會有甚麼
+* OpenCV
+* YoloV11
 * TensorFlow
 * MySQL
 * Flask
