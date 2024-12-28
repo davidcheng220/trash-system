@@ -1,7 +1,7 @@
 # 專題: 垃圾分類
 將垃圾分辨是否為一般垃圾或是回收垃圾，並提示用戶要將垃圾會是屬於什麼
 
-![image](img\image.png)
+![image](https://github.com/davidcheng220/trash-system\img\image.png)
 
 # 會有甚麼
 * TensorFlow
