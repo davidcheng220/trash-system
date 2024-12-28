@@ -3,6 +3,14 @@
 
 ![image](https://github.com/davidcheng220/trash-system/blob/main/img/image.png)
 
+# 垃圾分類共有:
+* metal(鋁箔包)
+* glass(玻璃瓶)
+* paper(紙)
+* plastic(塑膠瓶)
+* papercup(手搖)
+* trash(一般)
+
 # 會有甚麼
 * TensorFlow
 * MySQL
