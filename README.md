@@ -41,16 +41,16 @@ pip install -r requirements.txt
 ```
 後面待補充
 # Label Studio 使用教學
-Download docker-compose.yml
-打開終端機，cd至docker-compose.yml的所在資料夾
-輸入指令
+Download docker-compose.yml，建立一個資料夾用來放docker-compose.yml，在資料夾中新增2個資料夾mydata、myfiles<br/>
+打開終端機，cd至docker-compose.yml的所在資料夾<br/>
+輸入指令<br/>
 ```
 docker-compose up
 ```
-打開docker desktop，找到label-studio容器
-點擊port開啟local host瀏覽，建立帳號登入
-create new project，到Labeling Setup，點選Object Detection with Bounding Boxes
-把預設的labels刪除，加入labels，完成後按save
-點選import上傳圖片，點選圖片進入標記頁面
-點選你要標記的label，在圖片上框出位置(可以多個種類多個框)
+打開docker desktop，找到label-studio容器<br/>
+點擊port開啟local host瀏覽，建立帳號登入<br/>
+create new project，到Labeling Setup，點選Object Detection with Bounding Boxes<br/>
+把預設的labels刪除，加入labels，完成後按save<br/>
+點選import上傳圖片，點選圖片進入標記頁面<br/>
+點選你要標記的label，在圖片上框出位置(可以多個種類多個框)<br/>
 做完後點選export，選擇要輸出的檔案類型
