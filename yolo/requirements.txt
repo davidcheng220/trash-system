@@ -1,0 +1,4 @@
+pytorch
+nvidia
+pytorch torchvision pytorch-cuda=11.8 
+ultralytics
